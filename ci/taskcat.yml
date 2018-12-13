@@ -19,6 +19,6 @@ global:
     - us-west-2
   reporting: true
 tests:
-  defaults:
+  alfresco-consvc:
     parameter_input: defaults.json
     template_file: alfresco-content-services-master.template
