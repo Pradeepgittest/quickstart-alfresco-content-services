@@ -329,7 +329,7 @@
             "NoEcho": "True",
             "Type": "String",
             "MinLength": 8,
-            "ConstraintDescription":"Minimum 8 characters."
+            "ConstraintDescription": "Minimum 8 characters."
         },
         "RDSUsername": {
             "Default": "alfresco",
@@ -377,49 +377,49 @@
     "Mappings": {
         "AWSAMIRegionMap": {
             "AMI": {
-                "ALFRESCOCS52": "Alfresco Content Services 5.2.1 AWS Marketplace AMI  - 1508922595-6167cdca-2075-4b86-ab68-98bb01eb01d0-ami-ffb51185.4"
+                "ALFRESCOCS52": "Alfresco Content Services 5.2.1 AWS Marketplace AMI - 1548855826-6167cdca-2075-4b86-ab68-98bb01eb01d0-ami-012f9f40e8fe0afb2.4"
             },
             "ap-northeast-1": {
-                "ALFRESCOCS52": "ami-7173ca17"
+                "ALFRESCOCS52": "ami-0ce2c31cc222ecbdf"
             },
             "ap-northeast-2": {
-                "ALFRESCOCS52": "ami-5b339435"
+                "ALFRESCOCS52": "ami-05180ff8455f73b49"
             },
             "ap-south-1": {
-                "ALFRESCOCS52": "ami-7591df1a"
+                "ALFRESCOCS52": "ami-060c34a1f922d5b32"
             },
             "ap-southeast-1": {
-                "ALFRESCOCS52": "ami-c75407a4"
+                "ALFRESCOCS52": "ami-07afe9c50fad9ee0d"
             },
             "ap-southeast-2": {
-                "ALFRESCOCS52": "ami-8d8e7bef"
+                "ALFRESCOCS52": "ami-0c1b6ed127a189f8d"
             },
             "ca-central-1": {
-                "ALFRESCOCS52": "ami-eb5ae18f"
+                "ALFRESCOCS52": "ami-0d9e11b5535389c58"
             },
             "eu-central-1": {
-                "ALFRESCOCS52": "ami-7ef57911"
+                "ALFRESCOCS52": "ami-0971b5a60b0e0e99a"
             },
             "eu-west-1": {
-                "ALFRESCOCS52": "ami-1db60564"
+                "ALFRESCOCS52": "ami-03fbd4bb3b0a5eacd"
             },
             "eu-west-2": {
-                "ALFRESCOCS52": "ami-f25d4396"
+                "ALFRESCOCS52": "ami-0271ab17a1ac98c82"
             },
             "sa-east-1": {
-                "ALFRESCOCS52": "ami-73480c1f"
+                "ALFRESCOCS52": "ami-0b2fa97d2111dba8c"
             },
             "us-east-1": {
-                "ALFRESCOCS52": "ami-60da481a"
+                "ALFRESCOCS52": "ami-078ae9973bd38852a"
             },
             "us-east-2": {
-                "ALFRESCOCS52": "ami-a498b6c1"
+                "ALFRESCOCS52": "ami-0081469d086c9f57a"
             },
             "us-west-1": {
-                "ALFRESCOCS52": "ami-cdfac1ad"
+                "ALFRESCOCS52": "ami-04fdd30bb430bfd16"
             },
             "us-west-2": {
-                "ALFRESCOCS52": "ami-21f52b59"
+                "ALFRESCOCS52": "ami-0131e641aca8ee2f2"
             }
         },
         "S3EndPoints": {
