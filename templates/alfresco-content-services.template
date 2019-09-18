@@ -380,10 +380,10 @@
                 "ALFRESCOCS52": "Alfresco Content Services 5.2.1 AWS Marketplace AMI - 1548855826-6167cdca-2075-4b86-ab68-98bb01eb01d0-ami-012f9f40e8fe0afb2.4"
             },
             "us-east-1": {
-                "ALFRESCOCS52": "ami-008b3d5538d474e3f"
+                "ALFRESCOCS52": "ami-ac9d43ba"
             },
             "us-east-2": {
-                "ALFRESCOCS52": "ami-00a1b62886feb234b"
+                "ALFRESCOCS52": "ami-453fe653"
         },
         "S3EndPoints": {
             "ap-northeast-1": {
