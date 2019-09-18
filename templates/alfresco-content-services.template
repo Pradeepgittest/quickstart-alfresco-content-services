@@ -379,48 +379,11 @@
             "AMI": {
                 "ALFRESCOCS52": "Alfresco Content Services 5.2.1 AWS Marketplace AMI - 1548855826-6167cdca-2075-4b86-ab68-98bb01eb01d0-ami-012f9f40e8fe0afb2.4"
             },
-            "ap-northeast-1": {
-                "ALFRESCOCS52": "ami-0ce2c31cc222ecbdf"
-            },
-            "ap-northeast-2": {
-                "ALFRESCOCS52": "ami-05180ff8455f73b49"
-            },
-            "ap-south-1": {
-                "ALFRESCOCS52": "ami-060c34a1f922d5b32"
-            },
-            "ap-southeast-1": {
-                "ALFRESCOCS52": "ami-07afe9c50fad9ee0d"
-            },
-            "ap-southeast-2": {
-                "ALFRESCOCS52": "ami-0c1b6ed127a189f8d"
-            },
-            "ca-central-1": {
-                "ALFRESCOCS52": "ami-0d9e11b5535389c58"
-            },
-            "eu-central-1": {
-                "ALFRESCOCS52": "ami-0971b5a60b0e0e99a"
-            },
-            "eu-west-1": {
-                "ALFRESCOCS52": "ami-03fbd4bb3b0a5eacd"
-            },
-            "eu-west-2": {
-                "ALFRESCOCS52": "ami-0271ab17a1ac98c82"
-            },
-            "sa-east-1": {
-                "ALFRESCOCS52": "ami-0b2fa97d2111dba8c"
-            },
             "us-east-1": {
-                "ALFRESCOCS52": "ami-078ae9973bd38852a"
+                "ALFRESCOCS52": "ami-008b3d5538d474e3f"
             },
             "us-east-2": {
-                "ALFRESCOCS52": "ami-0081469d086c9f57a"
-            },
-            "us-west-1": {
-                "ALFRESCOCS52": "ami-04fdd30bb430bfd16"
-            },
-            "us-west-2": {
-                "ALFRESCOCS52": "ami-0131e641aca8ee2f2"
-            }
+                "ALFRESCOCS52": "ami-00a1b62886feb234b"
         },
         "S3EndPoints": {
             "ap-northeast-1": {
